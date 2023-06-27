@@ -1623,3 +1623,9 @@ color: #cccccc;
         cursor: pointer;
     }
 }
+.contacts-form .submit-btn:hover{
+    cursor: pointer;
+}
+.footer-links-other{
+    color: #fff;
+}
