@@ -1626,6 +1626,6 @@ color: #cccccc;
 .contacts-form .submit-btn:hover{
     cursor: pointer;
 }
-.footer-links-other{
+.footer-links-other:hover{
     color: #fff;
 }
